@@ -3,7 +3,6 @@
 
 - 💻 Currently pursuing **Master of Computer Applications (MCA)** at *CMR Institute of Technology, Bengaluru*
 - 🎓 Completed **Bachelor of Computer Applications (BCA)** from *Dr. Ram Manohar Lohia Avadh University*
-- 🔭 Working on **AI-Powered Career Counseling and Resume Enhancement Platform**
 - 🌱 Learning and exploring **Web Development, System Design & DSA**
 - 🧠 Focused on **Java, JavaScript, React.js, Node.js, MongoDB, PostgreSQL, and DevOps Tools**
 - 💬 Ask me about **Full Stack Development, Competitive Programming, and DSA**
