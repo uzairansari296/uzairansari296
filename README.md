@@ -4,7 +4,7 @@
 - 💻 Currently pursuing **Master of Computer Applications (MCA)** at *CMR Institute of Technology, Bengaluru*
 - 🎓 Completed **Bachelor of Computer Applications (BCA)** from *Dr. Ram Manohar Lohia Avadh University*
 - 🌱 Learning and exploring **Web Development, System Design & DSA**
-- 🧠 Focused on **Java, JavaScript, React.js, Node.js, MongoDB, PostgreSQL, and DevOps Tools**
+- 🧠 Focused on **Java, JavaScript, React.js, Node.js, MongoDB and PostgreSQL**
 - 💬 Ask me about **Full Stack Development, Competitive Programming, and DSA**
 - 📫 Reach me at: **uzairansari296@gmail.com**
 
@@ -16,13 +16,13 @@
 - **Frontend:** HTML, CSS, React.js, Material-UI, Bootstrap
 - **Backend:** Node.js, Express.js, REST APIs
 - **Database:** MongoDB, PostgreSQL, MySQL
-- **Tools & Platforms:** Git/GitHub, AWS, JSON, Socket.IO
+- **Tools & Platforms:** Git/GitHub
 
 ---
 
 ### 🚀 Projects
 
-- [🚀 Track-to-Code](https://github.com/uzairansari296/Track-to-Code)  
+- [🚀 Track-to-Code](https://github.com/uzairansari296/contest-tracker-app.git)  
   _A MERN Stack web app to track competitive programming contests from Codeforces, LeetCode, and CodeChef_  
   **Features:** Real-time updates (Socket.IO), Contest Filtering, Bookmarking, Admin Panel
 
