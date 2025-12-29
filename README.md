@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Uzair Ansari</h1>
 <h3 align="center">Aspiring Full Stack Developer | Competitive Programmer | MCA @ CMRIT</h3>
 
-- 💻 Currently pursuing **Master of Computer Applications (MCA)** at *CMR Institute of Technology, Bengaluru*
+- 💻 Completed **Master of Computer Applications (MCA)** at *CMR Institute of Technology, Bengaluru*
 - 🎓 Completed **Bachelor of Computer Applications (BCA)** from *Dr. Ram Manohar Lohia Avadh University*
 - 🌱 Learning and exploring **Web Development, System Design & DSA**
 - 🧠 Focused on **Java, JavaScript, React.js, Node.js, MongoDB and PostgreSQL**
